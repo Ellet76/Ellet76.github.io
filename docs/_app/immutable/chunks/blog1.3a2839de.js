@@ -1,4 +1,4 @@
-import{S as E,i as G,s as x,k as c,q as _,a as m,l as f,m as g,r as A,h as l,c as v,n as y,b as o,D as I,M as h}from"./index.e3028321.js";function H(P){let e,d,r,u,p,i,q,n,s,S=`<code class="language-undefined">&lt;nav class=&quot;navbar&quot;&gt;
+import{S as E,i as G,s as x,k as c,q as _,a as m,l as f,m as g,r as A,h as l,c as v,n as y,b as o,D as I,M as h}from"./index.ab650171.js";function H(P){let e,d,r,u,p,i,q,n,s,S=`<code class="language-undefined">&lt;nav class=&quot;navbar&quot;&gt;
     &lt;div class=&quot;logo&quot;&gt;
         &lt;img class=&quot;pfp&quot; src=&quot;pfp.jpg&quot; alt=&quot;hahahahe&quot;&gt;
         &lt;a class=&quot;header&quot; href=&quot;/&quot;&gt;Linus Scott&lt;/a&gt;
