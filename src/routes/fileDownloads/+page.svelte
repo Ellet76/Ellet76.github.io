@@ -5,7 +5,11 @@
 <div class="main">
     <div class="cont">
         <div class="item1">
-            <img src="" alt="game1" style="width: 150px; height:100%;">
+            <img src="/game1_img.PNG" alt="game1" style="width: 200px; height:100%; margin-right:10px;">
+            <h1 style="color: black; width:100%;">Death From Above</h1>
+            <div class="text">
+                heheheha
+            </div>
         </div>
     </div>
 </div>
@@ -29,9 +33,14 @@
         column-gap: 35px;
     }
     .item1{
+        display: flex;
+        height: 100%;
         background-color: white;
         border-color: black;
         border-width: 10px;
         opacity: 60%;
+    }
+    .text{
+        color:black;
     }
 </style>
