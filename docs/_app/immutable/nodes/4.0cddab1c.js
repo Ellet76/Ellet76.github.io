@@ -1,0 +1,7 @@
+import{S as j,i as S,s as b,k as l,a as I,q as z,l as c,m as d,h as n,c as D,r as E,n as o,b as q,D as t,M as y}from"../chunks/index.ab650171.js";function w(J){let a,e,m,g,s,i,_,k,f,v;return{c(){a=l("div"),e=l("div"),m=l("div"),g=I(),s=l("div"),i=l("h2"),_=z("Linus Scott"),k=z(`\r
+            Jag är en 17-årig student på majabeskows gymnasium. \r
+            Jag studerar teknik-linjen med inriktning av Information och medie-teknik.\r
+            Jag spenderar mycket tid med att spela dataspel och gör även egna spel.`),f=I(),v=l("div"),this.h()},l(h){a=c(h,"DIV",{class:!0});var p=d(a);e=c(p,"DIV",{class:!0});var r=d(e);m=c(r,"DIV",{class:!0}),d(m).forEach(n),g=D(r),s=c(r,"DIV",{class:!0});var u=d(s);i=c(u,"H2",{class:!0});var x=d(i);_=E(x,"Linus Scott"),x.forEach(n),k=E(u,`\r
+            Jag är en 17-årig student på majabeskows gymnasium. \r
+            Jag studerar teknik-linjen med inriktning av Information och medie-teknik.\r
+            Jag spenderar mycket tid med att spela dataspel och gör även egna spel.`),u.forEach(n),f=D(r),v=c(r,"DIV",{class:!0});var V=d(v);V.forEach(n),r.forEach(n),p.forEach(n),this.h()},h(){o(m,"class","image svelte-kdfezc"),o(i,"class","svelte-kdfezc"),o(s,"class","text_frame svelte-kdfezc"),o(v,"class","text_data svelte-kdfezc"),o(e,"class","main_page svelte-kdfezc"),o(a,"class","main svelte-kdfezc")},m(h,p){q(h,a,p),t(a,e),t(e,m),t(e,g),t(e,s),t(s,i),t(i,_),t(s,k),t(e,f),t(e,v)},p:y,i:y,o:y,d(h){h&&n(a)}}}class C extends j{constructor(a){super(),S(this,a,null,w,b,{})}}export{C as component};

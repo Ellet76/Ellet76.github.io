@@ -3,7 +3,7 @@ title: Vecka 16, Homepage fixed
 date: "2024-04-16"
 keywords: ["project", "Homepage"]
 ---
-JAG HATAR GITHUB COMMITS
+JAG HATAR GITHUB COMMITS!!!
 
 Jag har fixat en bakgrund till Homepage och jag har fixat problem med github repot. Jag kan nu commita.
 

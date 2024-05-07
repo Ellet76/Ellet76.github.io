@@ -9,12 +9,12 @@
 			<nav class="navbar">
 				<div class="logo">
 					<div class="pfp"></div>
-					<a class="header" href="/">Linus Scott</a>
+					<a class="header" href="/">Ellet76.github.io</a>
 				</div>
 				<div class="menuItems">
-					<div><a class="barItem" href="/Requests">Requests</a></div>
-					<div><a class="barItem" href="/Info">About Me</a></div>
-					<div><a class="barItem" href="/fileDownloads">Projects</a></div>
+					<div><a class="barItem" href="/requests">Requests</a></div>
+					<div><a class="barItem" href="/about_me">About Me</a></div>
+					<div><a class="barItem" href="/projects">Projects</a></div>
 				</div>
 			</nav>
 		</div>
@@ -38,7 +38,7 @@
 		margin: 10px;
 		margin-bottom: 20px;
 		text-align: left;
-		font-size: xx-large;
+		font-size: x-large;
 		font-weight: bold;
 	}
 	.navbar{
