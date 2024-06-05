@@ -4,15 +4,19 @@
 
 <div class="main">
     <div class="main_page">
-        <div class="image"></div>
         <div class="text_frame">
-            <h2>Linus Scott</h2>
-            Jag är en 17-årig student på majabeskows gymnasium. 
-            Jag studerar teknik-linjen med inriktning av Information och medie-teknik.
-            Jag spenderar mycket tid med att spela dataspel och gör även egna spel.
-        </div>
-        <div class="text_data">
-            
+            <div>
+                <h2>Linus Scott</h2>
+                <p>
+                    Jag är en 17-årig elev på majabeskows gymnasium. 
+                    Jag studerar teknik-linjen med inriktning av Information och medie-teknik.
+                    Jag spenderar mycket tid med att spela dataspel och gör även egna spel.
+                </p>
+            </div>
+            <div style="display: flex;">
+                <img src="/pfp.jpg" alt="pfp" class="image" style="border-radius: 10px 0px 0px 10px;">
+                <img src="/pfp.jpg" alt="nonexistant" class="image" style="border-radius: 0px 10px 10px 0px;">
+            </div>
         </div>
     </div>
 </div>
@@ -26,9 +30,6 @@
         
     }
     .main_page{
-        display: grid;
-        grid-template-columns: 4fr 6fr;
-        grid-template-rows: 4fr 6fr;
         margin-top: 2%;
         width: 40%;
         height: 90%;
@@ -39,25 +40,17 @@
         flex-wrap: wrap;
     }
     .image{
-        background-image: url(pfp.jpg);
         background-size: contain;
-        width: 100%;
-        height: 100%;
-        border-color: black;
-        border-radius: 10px 0px 0px 0px;
+        width: 19vw;
     }
     .text_frame{
-        width: 100%;
-        height: 100%;
+        display: grid;
+        grid-template-rows: 3fr 4fr;
+        width: 98%;
+        height: 98%;
         color: black;
         margin: 5px 5px 5px 5px;
         font-size: medium;
-    }
-    .text_data{
-        color: black;
-        margin-left: 3px;
-        width: 100%;
-        height: 100%;
     }
     h2{
         text-align: center;

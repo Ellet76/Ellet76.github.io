@@ -65,4 +65,7 @@
         color:black;
         text-align: left;
     }
+    a:hover{
+        font-weight: 100;
+    }
 </style>

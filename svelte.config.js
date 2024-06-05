@@ -19,7 +19,9 @@ const config = {
       layout: { blog: "./src/routes/blog/post.svelte" },
     }),
   ],
-
+  optimizeDeps: {
+     disabled: false, // https://github.com/vitejs/vite/issues/9703
+  },
   kit: {
     adapter: adapter({
       pages: "docs",

@@ -12,7 +12,7 @@
 					<a class="header" href="/">Ellet76.github.io</a>
 				</div>
 				<div class="menuItems">
-					<div><a class="barItem" href="/requests">Requests</a></div>
+					<div><a class="barItem" href="/mailing service">Gmail</a></div>
 					<div><a class="barItem" href="/about_me">About Me</a></div>
 					<div><a class="barItem" href="/projects">Projects</a></div>
 				</div>
@@ -51,6 +51,9 @@
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
 		margin-top: 10px;
+	}
+	.barItem:hover{
+		font-weight: 200;	
 	}
 	.logo{
 		display: flex;
